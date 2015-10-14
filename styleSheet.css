@@ -1,0 +1,12 @@
+div {
+    border: solid;
+    overflow: hidden;
+}
+body {
+
+}
+#content {
+    background-color: tan;
+    color: black;
+    text-align: center;
+}
